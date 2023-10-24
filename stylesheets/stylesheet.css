@@ -535,7 +535,7 @@ header a.button {
   position: absolute;
   top: 0;
   right: 0;
-  background: transparent url(../imagesme150.png) 0 0 no-repeat;
+  background: transparent url(../images/me150.png) 0 0 no-repeat;
 }
 aside a.button {
   display: block;
