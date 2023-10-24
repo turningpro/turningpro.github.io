@@ -1,0 +1,13 @@
+# Setup
+url:          https://turningpro.github.io
+name:         Turning Pro
+tagline:      A novice's journey
+baseurl:      ""
+locale:       "en"
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
