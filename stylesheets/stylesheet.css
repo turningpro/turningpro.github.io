@@ -517,14 +517,15 @@ aside#sidebar p.repo-owner a {
 }
 
 a.button {
-  width: 134px;
-  height: 58px;
+  width: 90px;
+  height: 130px;
   padding-top: 22px;
   padding-left: 68px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 23px;
   line-height: 1.2;
   color: #fff;
+  border-radius: 50%;
 }
 a.button small {
   display: block;
@@ -534,7 +535,7 @@ header a.button {
   position: absolute;
   top: 0;
   right: 0;
-  background: transparent url(../images/github-button.png) 0 0 no-repeat;
+  background: transparent url(../imagesme150.png) 0 0 no-repeat;
 }
 aside a.button {
   display: block;
